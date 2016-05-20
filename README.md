@@ -22,4 +22,4 @@
 
 10. Reverse linked list
 
-11. Remove duplicate words
+11. Remove duplicate words **`X`**
