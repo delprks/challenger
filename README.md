@@ -2,9 +2,9 @@
 
 ## Ideas:
 
-1. Find shared items between two lists `X`
+1. Find shared items between two lists **`X`**
 
-2. Given an array where all numbers except one are repeated, find the number that only occurs once `X`
+2. Given an array where all numbers except one are repeated, find the number that only occurs once **`X`**
 
 3. Currying function
 
