@@ -1,5 +1,8 @@
 package challenger.findRepeats
 
+/**
+  * Problem: Given an array where all numbers except one are repeated, find the number that only occurs once
+  */
 object FindRepeats {
   def main(args: Array[String]) = {
     val numList: List[Int] = List(2, 2, 3, 3, 5, 6, 5, 5)

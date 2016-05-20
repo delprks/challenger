@@ -1,5 +1,8 @@
 package challenger.sharedItems
 
+/**
+  * Problem: Find shared items between two lists
+  */
 object SharedItems {
   def main(args: Array[String]) = {
     val lOne: List[String] = List("first", "second", "third")
